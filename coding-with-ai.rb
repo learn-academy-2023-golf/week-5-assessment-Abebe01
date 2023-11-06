@@ -13,4 +13,4 @@ totals = taco_votes.reduce(Hash.new(0)) do |result, vote|
   result
 end
 
-p totals
+p totals   
